@@ -15,7 +15,7 @@ http://www.imdb.com/interfaces
 1.使用Python爬虫脚本爬取
 https://unogs.com/search/?country_andorunique=or&start_year=1900&end_year=2023&end_rating=10&genrelist=&audiosubtitle_andor=or&countrylist=78
 下所有我们所需的节目信息。同时爬取“Open Title in IMDB”背后的link以便我们将其与IMDb数据库匹配。
-这里的爬虫代码非全部原创，避免班门弄斧，不放了，但是注意unogs网站有一些访问限制，可能爬虫时间会比想象中长一些。
+注意unogs网站有一些访问限制，可能爬虫时间会比想象中长一些。
 2.导出unogs_us.csv。清洗并补充缺失的数据。
 3.下载镜像数据库并使用唯一特征码（ttxxxxxx）进行匹配，详见combine.R。
 4.导出Netflix_us_database.xlsx。
