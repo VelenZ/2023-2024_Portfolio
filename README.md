@@ -12,7 +12,7 @@ http://www.imdb.com/interfaces
 **参考资料：**  
 https://7color94.github.io/2016/01/imdb-db-structure/  
 
-**工作流程：**
+**工作流程：**  
 1.使用Python爬虫脚本爬取  
 https://unogs.com/search/?country_andorunique=or&start_year=1900&end_year=2023&end_rating=10&genrelist=&audiosubtitle_andor=or&countrylist=78  
 下所有我们所需的节目信息。同时爬取“Open Title in IMDB”背后的link以便我们将其与IMDb数据库匹配。  
