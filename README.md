@@ -20,6 +20,19 @@
 自学部分主要是一些自学所得的代码，主要以程序开发为主，集中在功能实现上。  
 课堂部分主要是在Carey课堂上学习的数据处理和分析部分。由于MS in Marketing是STEM专业，因此有大量的和代码相关的课程，可以查看后附的教学大纲。  
 
+**重要教授：**  
+代码方向：  
+Mohammad Ali Alamdar Yazdi, PhD  
+Assistant Professor of Practice  
+yazdi@jhu.edu  
+https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd  
+学术方向：  
+Ning Li, PhD  
+Professor of Practice  
+ningli@jhu.edu  
+https://carey.jhu.edu/faculty/faculty-directory/ning-li-phd  
+> 如需推荐信或进一步沟通我的能力水平，欢迎向教授们发送邮件，教授们很乐意回复。
+
 > **参考资料：**  
 李航. (2019). 统计学习方法  第2版 (TP181). 清华大学出版社  
 （美）埃里克·马瑟斯（Eric Matthes） & 陶俊杰审. (2023). Python编程  从入门到实践 (袁国忠, 译; TP311.561). 人民邮电出版社  
