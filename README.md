@@ -31,7 +31,7 @@ Ning Li, PhD
 Professor of Practice  
 ningli@jhu.edu  
 https://carey.jhu.edu/faculty/faculty-directory/ning-li-phd  
-> 如需推荐信或进一步沟通我的能力水平，欢迎向教授们发送邮件，教授们很乐意回复。
+> 如需推荐信或进一步沟通我的能力水平，欢迎向教授们发送邮件，教授们将很乐意回复。
 
 > **参考资料：**  
 李航. (2019). 统计学习方法  第2版 (TP181). 清华大学出版社  
