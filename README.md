@@ -4,7 +4,7 @@
 2017-2021 沈阳农业大学-农林经济管理  
 2021-2022 毕马威华振会计师事务所（特殊普通合伙）杭州分所-A1审计员  
 2022-2023 灼识市场研究咨询（上海）有限公司-咨询实习生  
-2023-2024 Johns Hopkins Carey Business School-MS in Marketing (STEM)
+2023-2024 Johns Hopkins Carey Business School-MS in Marketing (STEM)  
 （课程介绍详见https://carey.jhu.edu/programs/master-science-programs/ms-marketing-full-time）
 
 **知识框架：**  
