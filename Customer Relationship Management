@@ -1,0 +1,8 @@
+Customer Relationship Management
+
+The course focuses on analytical CRM, which entails the use of data and models to facilitate the three main CRM processes: customer acquisition, customer retention and the expansion of the customer relationships. We’ll begin by reviewing the standard econometric models that students have seen before (linear regression, for example) and then we’ll focus primarily on the use of Machine Learning algorithms, particularly:
+Logistic regression
+Naïve Bayes
+Decision Trees (including Random Forests)
+Artificial Neural Networks
+Students will gain first-hand experience implementing each of these algorithms in R, as well learning the tradeoffs inherent in their selection, tuning and assessment. Specific applications will include predicting churn/retention and designing a “lookalike” modeling process to select target customers for a marketing campaign.
