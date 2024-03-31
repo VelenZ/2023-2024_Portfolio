@@ -23,7 +23,7 @@
 由于代码运行限制，数据库权限等问题，无法将所有编写过的完整代码放上。
 
 **主要指导教师：**  
-代码方向：  
+数据方向：  
 Mohammad Ali Alamdar Yazdi, PhD  
 Assistant Professor of Practice  
 yazdi@jhu.edu  
