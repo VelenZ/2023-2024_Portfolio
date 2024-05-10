@@ -11,7 +11,7 @@
 编程领域：数据科学、机器学习、人工智能  
 > 数据科学：数据清洗和预处理、回归分析、假设检验、数据可视化、A/B Test  
 > 机器学习：线性回归、逻辑回归、聚类分析、决策树、随机森林、支持向量机、人工神经网络  
-人工智能：深度学习、自然语言处理
+人工智能：深度学习、自然语言处理、情感分析、大语言模型应用
 
 语言工具：Python（熟练），R（熟练），VBA，SQL，Mathematica，Tableau  
 
@@ -33,7 +33,10 @@ Ning Li, PhD
 Professor of Practice  
 ningli@jhu.edu  
 https://carey.jhu.edu/faculty/faculty-directory/ning-li-phd  
-> 如需推荐信或进一步沟通我的能力水平，欢迎向教授们发送邮件，教授们将很乐意回复。
+> 如需推荐信或进一步沟通我的能力水平，欢迎向教授们发送邮件，教授们将很乐意回复。  
+
+**其他项目（持续更新中）：**  
+frankredhot社交媒体分析：https://github.com/VelenZ/frankredhot_reddit_DA  
 
 > **参考资料：**  
 李航. (2019). 统计学习方法  第2版 (TP181). 清华大学出版社  
