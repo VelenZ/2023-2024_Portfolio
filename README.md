@@ -45,6 +45,13 @@ frankredhot社交媒体分析：https://github.com/VelenZ/frankredhot_reddit_DA
 （美）Ryan Mitchell. (2016). Python网络数据采集 (TP311.561). 人民邮电出版社  
 杨尊琦主编. (2022). 数据分析及可视化  Tableau原理与实践 (TP317.3). 机械工业出版社  
 赵军编. (2020). R语言医学数据分析实战 (R195.1-39). 人民邮电出版社  
-周志华. (2016). 机器学习 (TP181). 清华大学出版社  
+周志华. (2016). 机器学习 (TP181). 清华大学出版社
+@book{zhang2023dive,
+    title={Dive into Deep Learning},
+    author={Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.},
+    publisher={Cambridge University Press},
+    note={\url{https://D2L.ai}},
+    year={2023}
+}
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An introduction to statistical learning: With applications in R (Second edition). Springer  
 James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An Introduction to Statistical Learning: With Applications in Python. Springer International Publishing  
